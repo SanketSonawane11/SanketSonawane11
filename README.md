@@ -2,7 +2,7 @@
 
 ### 👋 Hey there! Welcome to my GitHub  
 
-I’m **Sanket Sonawane**, a 3rd-year Computer Engineering student and a passionate **Full-Stack Developer** exploring the intersection of **Web Development, AI, and Productivity Tools**.  
+I’m **Sanket Sonawane**, a 4th-year Engineering student and a passionate **Full-Stack Developer** exploring the intersection of **Web Development, AI, and Productivity Tools**.  
 
 I love building impactful products — from hackathon projects to real-world apps — that solve problems for students, freelancers, and businesses. Currently, I’m building **Freelancer Copilot**, an AI-powered productivity tool designed for Indian freelancers.  
 
