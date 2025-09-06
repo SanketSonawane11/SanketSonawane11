@@ -76,11 +76,19 @@ Currently focused on **growing as a Full-Stack + AI Developer**.
   <img src="https://img.shields.io/badge/Code-Next.js-black?logo=next.js" />
   <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-black?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Development-orange?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-Razorpay-0C66FF?logo=razorpay&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-OpenAI-black?logo=openai" />
   <img src="https://img.shields.io/badge/AI-Gemini-blue?logo=google" />
-</p>  
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Heroku-430098?logo=heroku&logoColor=white" />
+</p>
+
 
 ---
 
