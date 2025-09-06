@@ -72,12 +72,14 @@ Currently focused on **growing as a Full-Stack + AI Developer**.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket-Sonawane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Sonawane&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanket-Sonawane&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Code-React.js-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Code-Next.js-black?logo=next.js" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-OpenAI-black?logo=openai" />
+  <img src="https://img.shields.io/badge/AI-Gemini-blue?logo=google" />
 </p>  
 
 ---
