@@ -1,108 +1,166 @@
-# Sanket Sonawane 🚀  
+# Sanket Sonawane
 
-### 👋 Hey there! Welcome to my GitHub  
-
-I’m **Sanket Sonawane**, a 4th-year Engineering student and a passionate **Full-Stack Developer** exploring the intersection of **Web Development, AI, and Productivity Tools**.  
-
-I love building impactful products — from hackathon projects to real-world apps — that solve problems for students, freelancers, and businesses. Currently, I’m building **Freelancer Copilot**, an AI-powered productivity tool designed for Indian freelancers.  
+## Full-Stack + AI + DevOps Engineer  
+Building reliable, scalable, and intelligent products
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, SwiftUI (beginner)  
-- **Backend:** Node.js, Express.js, MongoDB, Supabase  
-- **AI/ML:** OpenAI API, Gemini API, RAG (Retrieval-Augmented Generation), Vector DBs  
-- **Other Tools:** pnpm, Git/GitHub, GSAP, Razorpay Integration  
+I am **Sanket Sonawane**, a final-year Engineering student with strong hands-on experience across **Full-Stack Development, AI integrations, and DevOps fundamentals**.
 
----
+I focus on **building production-ready systems**, not just demos. My work spans from frontend UX and backend APIs to **CI/CD pipelines, cloud deployment, and system reliability**.
 
-## 📌 Featured Projects  
-
-- **🚀 Freelancer Copilot**  
-  AI assistant for freelancers in India. Features: AI-generated proposals, follow-ups, invoicing (GST & non-GST), tax estimation.  
-  _Tech:_ Next.js, Supabase, Razorpay, OpenAI/Gemini APIs 
-
-- **📚 Campus Chronicles**  
-  A dynamic platform for exchanging academic resources among college students. Includes uploading, browsing, and downloading notes.  
-  _Tech:_ Next.js, Node.js, MongoDB, Supabase  
-
-- **🌐 CSI TESC Website** (Joint Technical Head, CSI Committee)  
-  Led the dev of the official committee website from scratch with the design team.  
-  _Tech:_ React.js, Tailwind CSS
-
-- **💳 Paytm Clone (Database Transactions)**  
-  A mini-fintech project replicating **Paytm-like wallet transactions** with secure database updates, transaction logs, and balance handling.  
-  _Tech:_ Node.js, Express.js, MongoDB, JWT  
-
-- **🗺️ Pilot Mapping**  
-  Built a system for mapping and tracking flight routes and pilots, aimed at aviation use cases and resource planning.  
-  _Tech:_ Next.js, Leaflet.js (maps), Node.js
-
-- **📂 Managerrr**  
-  A lightweight **task and team manager** app to organize projects, assign roles, and track progress in real-time.  
-  _Tech:_ Next.js, Supabase, Edge Functions, Razorpay  
+Currently, I am building **Freelancer Copilot**, an AI-powered productivity platform for Indian freelancers.
 
 ---
 
-## 🎯 What I’m Learning Right Now  
+## Core Skill Areas
 
-- Deepening expertise in **AI integrations** (RAG, long-term memory for AI agents)  
-- **SwiftUI** fundamentals for building iOS apps  
-- Advanced **system design** concepts for scalable applications  
+### Full-Stack Engineering
+- React.js, Next.js, Tailwind CSS
+- Node.js, Express.js, FastAPI
+- REST APIs, GraphQL
+- Supabase (PostgreSQL, Auth, Edge Functions)
+
+### AI & Applied ML
+- OpenAI API, Gemini API
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases and Embeddings
+- Long-term memory systems for AI agents
+- ML model deployment basics
+
+### DevOps & Cloud Engineering
+- **CI/CD:** GitHub Actions
+- **Containers:** Docker
+- **Cloud & Edge:** Vercel, Cloudflare (CDN, R2, Edge)
+- **System Concepts:** Linux, Networking basics, Automation
+- **Reliability:** Edge caching, performance optimization, uptime-focused design
+- **Infrastructure patterns:** Serverless, JAMstack, Microservices (intro level)
 
 ---
 
-## 💡 Career Goals  
+## Featured Projects
 
-I aim to build innovative products that make life simpler for people.  
-Currently focused on **growing as a Full-Stack + AI Developer**.
+### Freelancer Copilot
+AI productivity assistant for Indian freelancers.
+
+**Key Features**
+- AI-generated proposals and follow-ups
+- GST and non-GST invoicing
+- Tax estimation
+- Subscription payments
+
+**Engineering Highlights**
+- Serverless backend using Supabase Edge Functions
+- CI/CD pipelines with GitHub Actions
+- Cloudflare R2 for scalable storage
+- CDN-based deployment with high availability
+
+**Tech Stack**
+Next.js, Supabase, OpenAI/Gemini APIs, Razorpay, GitHub Actions, Cloudflare
 
 ---
 
-## 📬 Let’s Connect  
+### Campus Chronicles
+A platform for college students to exchange academic resources.
 
-- **Portfolio:** [Portfolio](https://sankets-profile.vercel.app/)
-- **X (Twitter):** [@Sanket_S11](https://x.com/Sanket_S11)  
-- **LinkedIn:** [sanket-sonawane11](https://www.linkedin.com/in/sanket-sonawane11/)
-- **Email:** sanketsonawanework@gmail.com  
+**Highlights**
+- Secure file uploads and downloads
+- Scalable backend with Supabase and MongoDB
+- Clean, responsive UI
+
+**Tech Stack**
+Next.js, Node.js, MongoDB, Supabase
 
 ---
 
-## 📊 Quick Visuals
+### CSI TSEC Website
+Official website for the CSI committee.
+
+**Role**
+Joint Technical Head  
+Led development from scratch in collaboration with designers.
+
+**Tech Stack**
+React.js, Tailwind CSS
+
+---
+
+### Paytm Clone (Transactions System)
+Mini fintech system simulating wallet-based transactions.
+
+**Highlights**
+- Atomic balance updates
+- Transaction logs
+- JWT-based authentication
+
+**Tech Stack**
+Node.js, Express.js, MongoDB
+
+---
+
+### Pilot Mapping
+Aviation-focused system for mapping and tracking flight routes.
+
+**Tech Stack**
+Next.js, Leaflet.js, Node.js
+
+---
+
+### Managerrr
+Lightweight task and team management tool.
+
+**Highlights**
+- Real-time updates
+- Role-based access
+- Payment integration
+
+**Tech Stack**
+Next.js, Supabase, Edge Functions, Razorpay
+
+---
+
+## What I Am Learning Now
+
+- Advanced DevOps fundamentals (Docker deeper, AWS basics)
+- System design for scalable applications
+- RAG optimization and AI agent memory architectures
+- SwiftUI for iOS development
+
+---
+
+## Career Focus
+
+My goal is to grow into a **Full-Stack + AI + DevOps engineer** who can:
+- Design systems end-to-end
+- Deploy and operate them reliably
+- Integrate AI where it creates real value
+
+I value **engineering depth, system thinking, and execution** over buzzwords.
+
+---
+
+## Connect With Me
+
+- Portfolio: https://sankets-profile.vercel.app
+- GitHub: https://github.com/SanketSonawane11
+- LinkedIn: https://www.linkedin.com/in/sanket-sonawane11
+- X (Twitter): https://x.com/Sanket_S11
+- Email: sanketsonawanework@gmail.com
+
+---
+
+## Tech Snapshot
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Code-React.js-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Code-Next.js-black?logo=next.js" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-black?logo=express" />
-  <img src="https://img.shields.io/badge/API-REST%20%2F%20GraphQL-FF6F00?logo=graphql&logoColor=white" />
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/AI-OpenAI-black?logo=openai" />
-  <img src="https://img.shields.io/badge/AI-Gemini-blue?logo=google" />
-  <img src="https://img.shields.io/badge/AI-RAG-orange?logo=python&logoColor=white" />
-  
-  <!-- Cloud & Deployment -->
-  <img src="https://img.shields.io/badge/Cloud-Vercel-black?logo=vercel" />
-  <img src="https://img.shields.io/badge/Cloud-Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20FastAPI-green" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-orange" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel%20%7C%20Cloudflare-black" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20RAG-purple" />
 </p>
-
-
 
 ---
 
-✨ _Always learning. Always building. Always exploring._  
+_Always building. Always improving. Focused on real-world impact._
